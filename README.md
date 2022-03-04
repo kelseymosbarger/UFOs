@@ -8,7 +8,9 @@ This code uses 6 different dymanic filters (Date, City, State, Country and Shape
 
 ### Resources
 Javascript
+
 HTML
+
 CSS
 
 
@@ -16,6 +18,9 @@ CSS
  The results yield a filtered output from the UFO database of UFO sightings. To filter, the user must type the desired filter into one for many of the filter prompt boxes on the left side of the page and press enter to execute. Filters can either be cleared by deleting the input from the filter boxes or refreshing the page.
 
  Please see the screenshot below of the final website for Dana's project.
+
+![image](https://user-images.githubusercontent.com/94019661/156822286-b7e58da4-5208-436c-bee8-ef1b001f5af8.png)
+
 
 ## Summary
  One drawback to this design is that the filters have to be an absolute match in order to product results. Any sort of misspelling or added symbols will cause the filter to fail in finding matches in the database. I think for this it would be helpful to see a dropdown list for eaach of the filters and exsisting elements, that way if there is not a match then you do not have to waste time searching for specific criteria that does not exist.  Another way to solve this issue would be to have actively updating filters, so the results would begin to filter as you are typing rather than requiring a completed input.

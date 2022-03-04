@@ -8,9 +8,7 @@ This code uses 6 different dymanic filters (Date, City, State, Country and Shape
 
 ### Resources
 Javascript
-
 HTML
-
 CSS
 
 
